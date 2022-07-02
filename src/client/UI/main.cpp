@@ -55,30 +55,3 @@ int main(int argc, char *argv[])
 
 
 
-
-
-//    QTime t;
-//    t.start();
-//    while(t.elapsed()<3000) QCoreApplication::processEvents();
-
-void Study()
-{
-    //遇到的问题
-    if(1)
-    {
-        /*
-
-          问题描述：
-            Error while building/deploying project UI (kit: Desktop Qt 5.3 MinGW 32bit)
-            上网搜了下，如下的问题：
-            QT之Error while building/deploying project **(kit: Desktop Qt 5.2.0 MinGW 32bit) 执行步骤 'qmake'时
-          原因：
-            路径中有中文
-
-         */
-    }
-}
-
-
-
-
